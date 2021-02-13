@@ -1,0 +1,17 @@
+dracula/zsh
+zsh-users/zsh-completions
+mafredri/zsh-async
+sindresorhus/pure
+hcgraf/zsh-sudo
+supercrabtree/k
+laggardkernel/zsh-thefuck
+robbyrussell/oh-my-zsh path:plugins/pip
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/command-not-found
+desyncr/auto-ls
+junegunn/fzf
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+ezh/fzf-ls
+agkozak/zsh-z
+zsh-users/zsh-history-substring-search
